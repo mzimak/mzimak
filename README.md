@@ -31,8 +31,6 @@
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg">
-  <img height=50 align="center" src="https://www.freelogovectors.net/power-bi-logo-microsoft/">
-  
-  
+  <img height=40 align="center" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">
 </div>
 

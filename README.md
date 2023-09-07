@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalhando com análise de dados
 - 🌱 Estou estudando Python, Pyspark, Haddop, Ciência de dados, 
 - 👯 Na área e dados já desenvolvi trabalhos com Power Bi, AWS-Quick Sight, Metabase, Looker (Google Data Studio), SQL, Postgree.
-- ⚡ Curiosidades :  Adoro descobrir as oportunidades com raspberry pi
+- ⚡ Curiosidades :  Adoro descobrir as oportunidades com Raspberry Pi
 
 
 <a href="https://github.com/mzimak/github-readme-stats">

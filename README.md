@@ -12,6 +12,6 @@
 </a>
 
 <a href="https://github.com/mzimak/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mzimak&theme=neon&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mzimak&theme=neon&layout=compact&langs_count=8&card_width=300" />
 </a>
 

@@ -26,6 +26,9 @@
   <img height=80 align="center" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+</div>
+
+<div style=display> 
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img height=70 align="center" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">

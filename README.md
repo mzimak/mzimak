@@ -31,5 +31,6 @@
   <img height=70 align="center" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
   <img height=70 align="center" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg">
   <img height=40 align="center" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">
+  <img height=40 align="center" src="https://www.powerpivot.sk/wp-content/uploads/2018/03/powerpivot_dax_studio_logo.png">
 </div>
 

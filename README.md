@@ -25,6 +25,14 @@
   <img height=110 align="center" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img height=80 align="center" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
+  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
+  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg">
+  <img height=50 align="center" src="https://www.freelogovectors.net/power-bi-logo-microsoft/">
+  
   
 </div>
 

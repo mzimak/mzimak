@@ -19,12 +19,12 @@
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
-  https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg
-  https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg
-  https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg
+  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg">
+  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
+  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
   
 </div>
 

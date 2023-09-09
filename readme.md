@@ -6,12 +6,6 @@
 - 👯 Na área e dados já desenvolvi trabalhos com Power Bi, AWS-Quick Sight, Metabase, Looker (Google Data Studio), SQL, DAX, M, Postgree, Jupyter Notebook
 - ⚡ Curiosidades :  Adoro descobrir as oportunidades com Raspberry Pi
 
-## Snake eating my contribution graph
-
-
-https://github.com/mzimak/mzimak/blob/output/github-contribution-grid-snake.gif
-
-
 
 <a href="https://github.com/mzimak/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mzimak&theme=neon&show_icons=true"&card_width=10" />

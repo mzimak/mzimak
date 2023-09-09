@@ -36,5 +36,4 @@
   <img height=40 align="center" src="https://www.powerpivot.sk/wp-content/uploads/2018/03/powerpivot_dax_studio_logo.png">
 
 </div>
-
-![snake gif] (https://github.com/mzimak/mzimak/blob/output/github-contribution-grid-snake.gif)
+![snake_gif](https://github.com/mzimak/mzimak/blob/output/github-contribution-grid-snake.gif)

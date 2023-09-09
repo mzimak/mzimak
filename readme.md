@@ -38,4 +38,5 @@
 </div>
 <br>
 ## Snake eating my contribution graph
-![snake_gif](https://github.com/mzimak/mzimak/blob/output/github-contribution-grid-snake.gif)
+    ![snake_gif]
+    (https://github.com/mzimak/mzimak/blob/output/github-contribution-grid-snake.gif)

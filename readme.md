@@ -28,7 +28,9 @@
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
    
 </div>
-<div style= “background-color: yellow”.
+
+  
+<div style=display> 
   <img height=30 align="center" src="https://www.nicepng.com/png/full/34-349631_microsoft-azure-logo-svg.png"> 
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img height=70 align="center" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
@@ -38,6 +40,9 @@
   <img height=100 align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg">
   <img height=100 align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original-wordmark.svg">
   <img height=100 align="center" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg">
-
+{
+    background-color: lightblue;
+  }
+</style>
 </div>
 <br>

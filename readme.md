@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalhando com análise de dados
-- 🌱 Estou estudando Python, Pyspark, Hadoop, Ciência de dados e Big Data.
+- 🌱 Estou estudando Python, Engenharia de dados, Pyspark, Hadoop,e Big Data.
 - 👯 Na área e dados já desenvolvi trabalhos com Power Bi, AWS-Quick Sight, Metabase, Looker (Google Data Studio), SQL, DAX, M, Postgree, Jupyter Notebook
 - ⚡ Curiosidades :  Adoro descobrir as oportunidades com Raspberry Pi
 
@@ -26,6 +26,7 @@
   <img height=80 align="center" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg">
 </div>
 <div style=display> 
   <img height=30 align="center" src="https://www.nicepng.com/png/full/34-349631_microsoft-azure-logo-svg.png"> 

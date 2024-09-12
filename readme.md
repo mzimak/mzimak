@@ -28,7 +28,7 @@
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
    
 </div>
-<div style=display, “background-color: yellow;”.
+<div style= “background-color: yellow”.
   <img height=30 align="center" src="https://www.nicepng.com/png/full/34-349631_microsoft-azure-logo-svg.png"> 
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img height=70 align="center" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">

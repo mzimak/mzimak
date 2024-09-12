@@ -26,7 +26,7 @@
   <img height=80 align="center" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg">
+   <img height=250 align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg">
 </div>
 <div style=display> 
   <img height=30 align="center" src="https://www.nicepng.com/png/full/34-349631_microsoft-azure-logo-svg.png"> 

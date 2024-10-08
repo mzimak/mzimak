@@ -66,6 +66,8 @@
           - Scripts de Validações e Expectativas de teste de Qualidade
           - Gerando Documentação Web e Analizando Resultados
       - ETL Reverso
-  
+
+      
+<b><H2>Engenharia de Dados com Airbyte, DBT e SQL </H2></b>  
   
   

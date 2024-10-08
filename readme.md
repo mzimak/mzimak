@@ -42,6 +42,12 @@
         - Doc. para Usuários (Manuais e Relatórios e Dashboards )
         - Diagramas ( Entidade-Relacionamento, Dimensionais )
         - Diagramas de Arquitetura ( Fluxo de Dados, Arquitetura de Sistemas que suportam o DW ( HW e SW)
+      - Slowly Changing Dimension ( SCD )
+      -   SCD-Tipo 1 - Sobrescreve dados antigos
+      -   SCD-Tipo 2 - Não Sobrescreve dados antigos
+      -   SCD-Tipo 3 - Mantém apenas o dado atual e o anterior
+      -   SCD-Tipo 4 - Que usa uma tabela de histórico, criando outra dimensão
+      -   SCD-Tipo 5 - Que combina o Tipo 2 e o Tipo 3
 
 
 

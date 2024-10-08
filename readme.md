@@ -2,7 +2,8 @@
 
 
 - 🔭 Atualmente trabalhando com análise de dados
-- 🌱 Estou estudando Python, Engenharia de dados, Pyspark, Hadoop,e Big Data.
+- 🌱 Estou estudando Python, Engenharia de dados, Pyspark, Hadoop,e Big Data.<br>  <br>  <br>  <br>  
+
 - Modelagem, Implementação e Governança de Data Warehouses ==>>
   - Linux, Docker, PGAdmin, ETL - Airbyte, Pentaho,
   - Google GCP ( BigQuery, Cloud Storage),

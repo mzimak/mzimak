@@ -16,6 +16,12 @@
     - Estratégia para Gov. de Qualidade de Dados ( Avaliação e Monit. Contínuos, Governança de dados, Limpesa e Enriquecimento de Dados, Ferramewntas e Tecnologia, Treinamento e Concientização
     - Desafios (Volume e Variedade, Mudanças nos requisitos de Negócio, Integração de Dados de Fontes Diversas)
     - ChatGPT Para Construir Um Modelo Dimensional de Forma Segura
+    - Modelo Conceitual
+    - Modelo Dimensional ( Star  Schema | modelo Snowflake )
+    - Modelo Lógico
+    - Modelo Físico (PostgreeSQL)
+    - Criação do Modelo Fisico Através do Modelo Lógico pelo ChatGPT
+
 
 
 

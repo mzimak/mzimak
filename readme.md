@@ -87,6 +87,11 @@
       -   SCD-Tipo 3 - Mantém apenas o dado atual e o anterior
       -   SCD-Tipo 4 - Que usa uma tabela de histórico, criando outra dimensão
       -   SCD-Tipo 5 - Que combina o Tipo 2 e o Tipo 3
+    -  ETL e ELT
+      -  AirByte e SQL
+      -  Importância de Staging Area
+      -  Criação e Carga de Dados da Staging Area com Airbyte
+    -  Assistentes Pessoais Baseados em IA
   
   
   

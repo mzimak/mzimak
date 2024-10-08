@@ -5,6 +5,7 @@
 - 🌱 Estou estudando Python, Engenharia de dados, Pyspark, Hadoop,e Big Data.
 - Modelagem, Implementação e Governança de Data Warehouses ==>>
   - Linux, Docker, PGAdmin, ETL - Airbyte, Pentaho,
+  - Google ( BigQuery, Cloud Storage),
   - IAC (Terraform), Postgree SQL, Amazon RedShift,
   - Governança dos dados (Great Spectations)
 

@@ -92,6 +92,12 @@
       -  Importância de Staging Area
       -  Criação e Carga de Dados da Staging Area com Airbyte
     -  Assistentes Pessoais Baseados em IA ( ChatGPT | Copilot | Gemini )
+    -  Dataware House na Nuvem
+      -  AWS CLI | Terraform | HCL | Amazon RedShift
+      -  Internet Gateway e AWS VPC com IAC
+      -  Definindo Grupo de Segurança de acesso ao DW
+      -  Definindo Grupo de SubNets RedShift com IAC Para configuração de Multi-AZ
+      -  Definindo um Cluster RedShift com IAC
   
   
   

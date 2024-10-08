@@ -3,7 +3,10 @@
 
 - 🔭 Atualmente trabalhando com análise de dados
 - 🌱 Estou estudando Python, Engenharia de dados, Pyspark, Hadoop,e Big Data.
-- Modelagem, Implementação e Governança de Data Warehouses ==>> Linux, Docker, PGAdmin, ETL - Airbyte, Pentaho, Terraform, Postgree SQL, Amazon RedShift, Governança dos dados (Great Spectations)
+- Modelagem, Implementação e Governança de Data Warehouses ==>>
+-   Linux, Docker, PGAdmin, ETL - Airbyte, Pentaho,
+-   IAC(Terraform), Postgree SQL, Amazon RedShift,
+-   Governança dos dados (Great Spectations)
 
 - 
 - 👯 Na área e dados já desenvolvi trabalhos com Power Bi, AWS-Quick Sight, Metabase, Looker (Google Data Studio), SQL, DAX, M, Postgree, Jupyter Notebook

@@ -3,6 +3,9 @@
 
 - 🔭 Atualmente trabalhando com análise de dados
 - 🌱 Estou estudando Python, Engenharia de dados, Pyspark, Hadoop,e Big Data.
+- Modelagem, Implementação e Governança de Data Warehouses ( Linux, Docker, PGAdmin, ETL - Airbyte, Pentaho, Terraform,
+
+- 
 - 👯 Na área e dados já desenvolvi trabalhos com Power Bi, AWS-Quick Sight, Metabase, Looker (Google Data Studio), SQL, DAX, M, Postgree, Jupyter Notebook
 - ⚡ Curiosidades :  Adoro descobrir as oportunidades com Raspberry Pi
 

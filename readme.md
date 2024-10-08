@@ -91,7 +91,7 @@
       -  AirByte e SQL
       -  Importância de Staging Area
       -  Criação e Carga de Dados da Staging Area com Airbyte
-    -  Assistentes Pessoais Baseados em IA
+    -  Assistentes Pessoais Baseados em IA ( ChatGPT | Copilot | Gemini )
   
   
   

@@ -21,6 +21,22 @@
     - Modelo Lógico
     - Modelo Físico (PostgreeSQL)
     - Criação do Modelo Fisico Através do Modelo Lógico pelo ChatGPT
+    - Granularidade e Agregações
+    - Design de tabelas
+      - Modelo Dimensional
+      - Tabelas de Dimensão
+      - Tabela de Fato
+    - Normalização vs. Desnormalização
+    - Indexação ( Indices B-tree | Bitmaps | Clusterizados e Não Clusterizados )
+    - Estratégias de Indexação
+    - Volumetria
+      - Crescimento de dados, Granularidade, Histórico, Frequência de atualização
+      - Desafios da volumentria ( Desempenho, Custos de armazenamento, Gerenciamento e Manutenção )
+      - Estratégias para Gerenciar a Volumetria
+        - particionamento de dados
+        - Arquivamento e Purga
+        - Compressão de Dados
+        - Agregações Pré-calculadas
 
 
 

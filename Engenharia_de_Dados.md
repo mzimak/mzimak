@@ -69,5 +69,12 @@
 
       
 <b><H2>Engenharia de Dados com Airbyte, DBT e SQL </H2></b>  
-  
+
+      - ETL e ELT
+      - AirByte
+      - Airbyte – ETL e ELT Para Engenharia de Dados
+      - Carga e Sincronização Incremental de Dados com AirbyteData
+      - 
+
+      
   

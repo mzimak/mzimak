@@ -7,7 +7,14 @@
   - Linux, Docker, PGAdmin, ETL - Airbyte, Pentaho,
   - Google GCP ( BigQuery, Cloud Storage),
   - IAC (Terraform), Postgree SQL, Amazon RedShift,
-  - Governança dos dados (Great Spectations)
+  - Governança dos dados (Great Spectations),
+  - Modelagem dimensional para Data Warehouses
+    - Carga de dados - ETL Full e incremental
+    - Otimizaçãop de modelos dimencionais
+    - Particionamenmto de dados (Horizontal, Vertical, Range, Hash, Lista)
+    - Qualidade de Dados ( Precisão, Completude, Consistência, Atualidade, Confiabilidade, Relevância )
+    - Estratégia para Gov. de Qualidade de Dados ( Avaliação e Monit. Contínuos, Governança de dados, Limpesa e Enriquecimento de Dados, Ferramewntas e Tecnologia, Treinamento e Concientização
+    - Desafios (Volume e Variedade, Mudanças nos requisitos de Negócio, Integração de Dados de Fontes Diversas)
 
 
 

@@ -37,7 +37,11 @@
         - Arquivamento e Purga
         - Compressão de Dados
         - Agregações Pré-calculadas
-
+      - Documentação e Diagramas
+        - Doc. Técnica (Descrição de Dados, Processos ETL, Modelos de Dados e Esquemas, Politicas de Segurança e Acessos)
+        - Doc. para Usuários (Manuais e Relatórios e Dashboards )
+        - Diagramas ( Entidade-Relacionamento, Dimensionais )
+        - Diagramas de Arquitetura ( Fluxo de Dados, Arquitetura de Sistemas que suportam o DW ( HW e SW)
 
 
 

@@ -85,6 +85,6 @@
   <img height=100 align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original-wordmark.svg">
   <img height=100 align="center" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg">
 
-</style>
+
 </div>
 <br>

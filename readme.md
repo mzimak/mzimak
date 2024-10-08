@@ -9,16 +9,17 @@
 </a>
 
 <div style=display> 
-  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
+
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   <img height=90 align="center" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg">
-  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img height=110 align="center" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img height=80 align="center" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
   <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img height=100 align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original-wordmark.svg">
    
 </div>
 
@@ -31,16 +32,18 @@
   <img height=40 align="center" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">
   <img height=40 align="center" src="https://www.powerpivot.sk/wp-content/uploads/2018/03/powerpivot_dax_studio_logo.png">
   <img height=100 align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg">
-  <img height=100 align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original-wordmark.svg">
   <img height=100 align="center" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg">
+  <img height=50 align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
 
 </div>
 <br>
 
-- 🔭 Atualmente trabalhando com análise de dados
-- 🌱 Estou estudando Python, Engenharia de dados e Big Data.<br>  <br>  <br>  <br>  
-  
-  
+- 📊 Atualmente trabalhando com análise de dados
+- 🌱 Estou estudando Python, Engenharia de dados e Big Data.
+- 🎲 <a href="https://github.com/mzimak/mzimak/edit/main/Engenharia_de_Dados.md/"> Relação de conhecimentos em Engenharia de Dados</a>
+
+
+<br>  <br>  
 
 - 👯 Na área apresentação de dados, já desenvolvi trabalhos com:
    - Power Bi, AWS-Quick Sight, Athena, Metabase,

@@ -16,10 +16,10 @@
     - Estratégia para Gov. de Qualidade de Dados ( Avaliação e Monit. Contínuos, Governança de dados, Limpesa e Enriquecimento de Dados, Ferramewntas e Tecnologia, Treinamento e Concientização
     - Desafios (Volume e Variedade, Mudanças nos requisitos de Negócio, Integração de Dados de Fontes Diversas)
     - ChatGPT Para Construir Um Modelo Dimensional de Forma Segura
-    - Modelo Conceitual
-    - Modelo Dimensional ( Star  Schema | modelo Snowflake )
-    - Modelo Lógico
-    - Modelo Físico (PostgreeSQL)
+  - Modelo Conceitual
+  - Modelo Dimensional ( Star  Schema | modelo Snowflake )
+  - Modelo Lógico
+  - Modelo Físico (PostgreeSQL)
     - Criação do Modelo Fisico Através do Modelo Lógico pelo ChatGPT
     - Granularidade e Agregações
     - Design de tabelas
@@ -37,18 +37,23 @@
         - Arquivamento e Purga
         - Compressão de Dados
         - Agregações Pré-calculadas
-      - Documentação e Diagramas
+    - Documentação e Diagramas
         - Doc. Técnica (Descrição de Dados, Processos ETL, Modelos de Dados e Esquemas, Politicas de Segurança e Acessos)
         - Doc. para Usuários (Manuais e Relatórios e Dashboards )
         - Diagramas ( Entidade-Relacionamento, Dimensionais )
         - Diagramas de Arquitetura ( Fluxo de Dados, Arquitetura de Sistemas que suportam o DW ( HW e SW)
-      - Slowly Changing Dimension ( SCD )
+    - Slowly Changing Dimension ( SCD )
       -   SCD-Tipo 1 - Sobrescreve dados antigos
       -   SCD-Tipo 2 - Não Sobrescreve dados antigos
       -   SCD-Tipo 3 - Mantém apenas o dado atual e o anterior
       -   SCD-Tipo 4 - Que usa uma tabela de histórico, criando outra dimensão
       -   SCD-Tipo 5 - Que combina o Tipo 2 e o Tipo 3
-
+  
+  
+  
+<br>  
+<br>  
+<br>  
 
 
 - 👯 Na área apresentação de dados, já desenvolvi trabalhos com:

@@ -19,7 +19,7 @@
 
 
 - 👯 Na área apresentação de dados, já desenvolvi trabalhos com:
-   - Power Bi, AWS-Quick Sight, Metabase,
+   - Power Bi, AWS-Quick Sight, Athena, Metabase,
    - Looker (Google Data Studio),
    - DAX, M, Postgree, SQL,
    - Jupyter Notebook

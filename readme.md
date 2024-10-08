@@ -39,6 +39,9 @@
 <br>
 
 - 📊 Atualmente trabalhando com análise de dados
+  - <a href="https://github.com/mzimak/mzimak/blob/main/analise_de_dados.md"> Relação de conhecimentos em Engenharia de Dados</a>
+
+  
 - 🌱 Estou estudando Python, Engenharia de dados e Big Data.
 - 🎲 <a href="https://github.com/mzimak/mzimak/blob/main/Engenharia_de_Dados.md"> Relação de conhecimentos em Engenharia de Dados</a>
 

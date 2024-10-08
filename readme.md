@@ -104,6 +104,9 @@
         - Precisão | Completude | Consistência | Confiabilidade Atualidade | Relevância
         - Ferramenta Great Expectations
           - Validação dos Dados | Documentação dos Dados | Monitoramento Contínuo | Auditoria e Conformidade
+          - Scripts de Validações e Expectativas de teste de Qualidade
+          - Gerando Documentação Web e Analizando Resultados
+      - ETL Reverso
   
   
   

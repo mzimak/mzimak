@@ -39,7 +39,7 @@
 <br>
 
 - 📊 Atualmente trabalhando com análise de dados
-  - <a href="https://github.com/mzimak/mzimak/blob/main/analise_de_dados.md"> Exemplos de trabalhos desenvolvidos </a>
+  - <a href="https://github.com/mzimak/Analise-de-dados"> Exemplos de trabalhos desenvolvidos </a>
 
   
 - 🌱 Estou estudando Python, Engenharia de dados e Big Data.

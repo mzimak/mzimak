@@ -43,7 +43,7 @@
 
   
 - 🌱 Estou estudando Python, Engenharia de dados e Big Data.
-  - 🎲 <a href="https://github.com/mzimak/mzimak/blob/main/Engenharia_de_Dados.md"> Relação de conhecimentos em Engenharia de Dados</a>
+  - 🎲 <a href="https://github.com/mzimak/Engenharia-de-dados"> Relação de conhecimentos em Engenharia de Dados</a>
 
 
 

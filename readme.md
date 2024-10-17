@@ -1,11 +1,11 @@
 ### Olá eu sou o Mauro Zimak, bem vindos (as) 👋
 
 <a href="https://github.com/mzimak/github-readme-stats">
-  <img height=250 align="center"src="https://github-readme-stats.vercel.app/api?username=mzimak&theme=neon" />
+  <img height=200 align="center"src="https://github-readme-stats.vercel.app/api?username=mzimak&theme=neon" />
 </a>
 
 <a href="https://github.com/mzimak/">
-  <img height=250 align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=mzimak&theme=neon" />
+  <img height=200 align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=mzimak&theme=neon" />
 </a>
 
 <div style=display> 

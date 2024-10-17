@@ -55,6 +55,6 @@
    - DAX, M, Postgree, SQL,
    - Jupyter Notebook
 
-- ⚡ Curiosidades :  Adoro descobrir as oportunidades com Raspberry Pi
+- ⚡ Curiosidades :  Curto explorar as oportunidades com Raspberry Pi
 <br>  <br>  
 

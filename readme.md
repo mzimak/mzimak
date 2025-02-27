@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/mzimak/">
-    <img height=150 align="center"src= "https://github-readme-stats.vercel.app/api/top-langs&langs_count=20?username=mzimak&theme=radical"/>
+    <img height=150 align="center"src= "https://github-readme-stats.vercel.app/api/top-langs?username=mzimak&theme=radical"/>
 </a>
 
 <div style=display> 
@@ -60,14 +60,4 @@
 - ⚡ Curiosidades :  Curto explorar as oportunidades com Raspberry Pi
 <br>  <br>  
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api&langs_count=20?username=mzimak&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mzimak&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mzimak&show_icons=true" />
-</picture>
+

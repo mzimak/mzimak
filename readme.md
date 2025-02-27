@@ -50,9 +50,11 @@
 <br>  <br>  
 
 - 👯 Na área apresentação de dados, já desenvolvi trabalhos com:
-   - Power Bi, AWS-Quick Sight, Athena, Metabase,
-   - Looker (Google Data Studio),
-   - DAX, M, Postgree, SQL,
+   - Power Bi, DAX, M
+   - AWS Glue, Athena, AWS-Quick Sight
+   - Metabase
+   - Looker (Google Data Studio)
+   - Postgree, SQL
    - Jupyter Notebook
 
 - ⚡ Curiosidades :  Curto explorar as oportunidades com Raspberry Pi

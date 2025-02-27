@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/mzimak/">
-  <img height=150 align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=mzimak&theme=neon" />
+  <img height=150 align="center"src= "https://github-readme-stats.vercel.app/api/top-langs?username=mzimak&theme=neon" />
 </a>
 
 <div style=display> 
@@ -55,7 +55,7 @@
    - Metabase
    - Looker (Google Data Studio)
    - Postgree, SQL
-   - Jupyter Notebook
+   - Python, Jupyter Notebook
 
 - ⚡ Curiosidades :  Curto explorar as oportunidades com Raspberry Pi
 <br>  <br>  
